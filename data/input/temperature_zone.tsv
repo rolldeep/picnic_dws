@@ -1,0 +1,200 @@
+group		temperature_zone
+0010 Suikerprodukten		ambient
+0011 Zoetstoffen		ambient
+0020 Filter koffie		ambient
+0021 Oploskoffie & koffiestr.		ambient
+0022 Filterzakjes		ambient
+0023 Thee		ambient
+0025 Cacaopoeder & instant		ambient
+0026 Koffiepads		ambient
+0027 Koffiebonen		ambient
+0028 Koffiecapsules		ambient
+0030 Bloem, bakmeel, bakmix		ambient
+0031 Zetmeel bindmiddelen		ambient
+0032 Pudding dessert		ambient
+0033 Bakingredienten & toebeh.		ambient
+0034 Rijst		ambient
+0035 Deegwaren		ambient
+0037 Houdbare maaltijden		ambient
+0038 Zuidvruchten		ambient
+0040 Olien en frituurvetten		ambient
+0041 Azijn & dressing		ambient
+0042 Tafelzuren		ambient
+0043 Natte sauzen warm		ambient
+0044 Droge sauzen warm		ambient
+0045 Natte sauzen koud		ambient
+0046 Droge sauzen koud		ambient
+0047 Droge maaltijdmixen		ambient
+0050 Droge kooksoep		ambient
+0051 Vloeibare kooksoep		ambient
+0052 Portie instant soep		ambient
+0054 Bouillon en ingredienten		ambient
+0060 Margarine		chilled
+0061 Halvarine		chilled
+0062 Bakvetten		chilled
+0063 Roomboter		chilled
+0071 Broodvervangers		ambient
+0072 Beschuit		ambient
+0073 Roggebrood		ambient
+0074 Ontbijtkoek		ambient
+0075 Ontbijtgranen		ambient
+0076 Houdbaar brood		ambient
+0081 Jam		ambient
+0082 Stroopachtigen		ambient
+0083 Pindakaas		ambient
+0084 Honing		ambient
+0085 Chocolade- & pasta's		ambient
+0086 Boterhamstrooisels		ambient
+0087 Spreads		ambient
+0090-Kruiden & specerijen		ambient
+0091 Zout		ambient
+0092 Oosterse specialiteiten		ambient
+0101 Vleesconserven & ragouts		ambient
+0102 Rookworst		ambient
+0103 Pasteibakjes		ambient
+0104 Visconserven		ambient
+0110 Groenten in blik		ambient
+0111 Groenten in glas		ambient
+0112 Groenten gedroogd		ambient
+0113 Appelmoes		ambient
+0114 Peulvruchten		ambient
+0120 Vruchtenconserven		ambient
+0121 Vlaaivullingen		ambient
+0130 Dieet en slimming		ambient
+0132 Reform		ambient
+0140 Kindermeel		ambient
+0141 Melkvervangers		ambient
+0142 Vitaminedranken		ambient
+0143 Baby- EN kindervoeding		ambient
+0144 Luiers		ambient
+0145 Babyverzorging		ambient
+0150 Biskwie		ambient
+0151 Koekjes		ambient
+0152 Stuksartikelen Koek		ambient
+0153 Snijkoek cake		ambient
+0154 Seizoensartikelen Koek		ambient
+0155 Tussendoortjes		ambient
+0156 KInderkoekjes		ambient
+0157 Luxe Banket toefzakken		ambient
+0160 Chocolade en bonbons		ambient
+0162 Candybars		ambient
+0163 Drop verpakt		ambient
+0164 Snoep verpakt		ambient
+0165 Kauwgom		ambient
+0166 Keelverzorgers & Pepermun		ambient
+0167 Repen en tabletten		ambient
+0168 Uitdeel spek en lollies		ambient
+0170 Chips & sticks		ambient
+0171 Zoute biskwie		ambient
+0172 Pinda's & noten		ambient
+0173 Toast		ambient
+0180 Koffiemelk		ambient
+0181 Koffiecreamers		ambient
+0190 Frisdranken groot		ambient
+0191 Vruchtensappen groot		ambient
+0192 Mineraalwater		ambient
+0193 Limonadesiropen		ambient
+0194 Frisdranken klein		ambient
+0195 Vruchtensappen klein		ambient
+0196 Mineraalwater klein		ambient
+0200 Wijnen rood		ambient
+0201 Wijnen wit		ambient
+0202 Wijnen rose		ambient
+0203 Wijnen mousserend		ambient
+0204 Port sherry vermouth		ambient
+0205 Premix en aperitief		ambient
+0206 Likeur en vruchtenwijn		ambient
+0210 Gedestilleerd binnenland		ambient
+0211 Gedestilleerd buitenland		ambient
+0212 Likeuren		ambient
+0220 Sigaretten		ambient
+0221 Sigaren		ambient
+0222 Shag		ambient
+0223 MYO tabak		ambient
+0224 Rokersbenodigdheden		ambient
+0230 Hond nat		ambient
+0231 Hond droog		ambient
+0232 Kat nat		ambient
+0233 Kat droog		ambient
+0235 Dierbenodigdheden		ambient
+0236 Diervoeding diepvries		diepvries
+0240 Wasmiddelen poeder		ambient
+0241 Wasmiddelen vloeibaar		ambient
+0242 Wasverzachters		ambient
+0243 Afwasmiddelen		ambient
+0244 Reinigings- & poetsmid.		ambient
+0245 Toilet en Luchtverfrisser		ambient
+0250 Toiletpapier		ambient
+0251 Keukenrollen		ambient
+0252 Servetten		ambient
+0260 Damesverband		ambient
+0261 Tampons		ambient
+0270 Lektuur		ambient
+0280 Kleinvak		ambient
+0281 Huishoudelijke artikelen		ambient
+0284 Lucifers		ambient
+0285 Kaarsen		ambient
+0286 Lampen, zekering & batt.		ambient
+0287 Textiel & beenmode		ambient
+0290 Pils		ambient
+0291 Bieren speciaal		ambient
+0292 Bieren alcoholvrij		ambient
+0293 Bieren overig		ambient
+0301-Toiletzeep, douche & bad		ambient
+0302-Decoratieve cosmetica		ambient
+0303-Deodorant		ambient
+0304-Genees-&verbandmiddel		ambient
+0305-Scheerartikelen		ambient
+0306-Mondverzorging		ambient
+0307 Shampoo - Conditioner		ambient
+0308 Haarstyling		ambient
+0310-Diepvries groenten		diepvries
+0311-Diepvries aardappelp.		diepvries
+0312-Diepvries maaltijden		diepvries
+0313-Diepvries pizza's		diepvries
+0320-Diepvries vleesprodukten		diepvries
+0321-Diepvries kipprodukten		diepvries
+0322-Diepvries visprodukten		diepvries
+0323-Diepvries wild & vogel		diepvries
+0324-Diepvries snacks		diepvries
+0330-Diepvries pudding & des.		diepvries
+0331-Schepijs		diepvries
+0332-Multipacks		diepvries
+0333-IJstaarten		diepvries
+0334-Los ijs		diepvries
+0335-Diepvries gebak		diepvries
+0340 Melk dagvers		chilled
+0341-Vla, yoghurt & pap		chilled
+0342-Zuiveldranken		chilled
+0343-Desserts		chilled
+0344-Slagroom		chilled
+0345 Sappen dagvers		chilled
+0350 Chocoladedranken houdbaar		ambient
+0351 Melkdranken houdbaar		ambient
+0352 Zuiveldranken houdbaar		ambient
+0353 Desserts houdbaar		ambient
+0360 Eieren		ambient
+0370 Maaltijden		chilled
+0380-Kaas stukken verpakt		chilled
+0381-Kaas gesneden verpakt		chilled
+0383-Smeerkaas		chilled
+0384-Buitenlandse kaas verpak		chilled
+0390 Ham-artikelen		chilled
+0391 Spekartikelen		chilled
+0392 Droge worst		chilled
+0393 Kookworst		chilled
+0394 Leverworst		chilled
+0395 Rookvlees		chilled
+0396 Slagerijartikelen		chilled
+0397 Pate.s		chilled
+0398 Specialiteiten		chilled
+0400 Vleeswaren gesneden zav		chilled
+0401 Spekprodukten		chilled
+0402 Kookworst produkten		chilled
+0403 Leverprodukten		chilled
+0404 Droge worst		ambient
+0405 Vleeswaren & snacks		chilled
+0407-Visprodukten gekoeld		chilled
+0411-Schepsauzen		chilled
+0412 Binnenlandse kaas		chilled
+0413 Buitenlandse kaas		chilled
