@@ -49,10 +49,12 @@ supplier, not all of which are in our assortment.
 
 - How will the solution have to be adapted to efficiently process production data
   volumes?
+  >We can apply 3 optimization methods like indexing, data compression and chunking.  
 - Which design patterns will be applicable in order to deploy the solution in
   production?
+  >Because of chuncking we can utilize multiple CPUs. Dask is a great way to do this in production.
 - Which software engineering best-practices and design principles can you apply?
-
+   >indexing, data compression, chunking and parallelism.
 ## Input data
 
 1. Three files provided by the wholesale supplier:
@@ -70,3 +72,30 @@ supplier, not all of which are in our assortment.
 [trade_units]: data/input/trade_units.tsv
 [temperature_zone]: data/input/temperature_zone.tsv
 [wms_load]: data/output/wms_load.tsv
+
+
+## Installation
+
+Poetry provides a custom installer that will install `poetry` isolated
+from the rest of your system.
+
+### osx / linux / bashonwindows install instructions
+```bash
+curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/install-poetry.py | python -
+```
+### windows powershell install instructions
+```powershell
+(Invoke-WebRequest -Uri https://raw.githubusercontent.com/python-poetry/poetry/master/install-poetry.py -UseBasicParsing).Content | python -
+```
+
+### Run poetry
+1. In `bash` or `powershell` navigate to `pywms` folder
+``` 
+cd ./picnic_dws/pywms
+```
+
+2. Install env and run the application
+```
+poetry install
+poetry run app
+```
